@@ -1,0 +1,88 @@
+js.stripe.com/v3/controller-with-preconnect-e542a96d4d09f86139d61711c52be2fd.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%2296be7e39-6bc4-4644-b60d-ede7f39e5947%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=96be7e39-6bc4-4644-b60d-ede7f39e5947&stripeObjId=sobj-bff6d8ac-70cc-4152-9322-158c2b8fc225&firstStripeInstanceCreatedLatency=10&controllerCount=1&isCheckout=false&stripeJsLoadTime=1756228617460&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&controllerId=__privateStripeController1081:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-e542a96d4d09f86139d61711c52be2fd.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%2296be7e39-6bc4-4644-b60d-ede7f39e5947%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=96be7e39-6bc4-4644-b60d-ede7f39e5947&stripeObjId=sobj-bff6d8ac-70cc-4152-9322-158c2b8fc225&firstStripeInstanceCreatedLatency=10&controllerCount=1&isCheckout=false&stripeJsLoadTime=1756228617460&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=NA&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&controllerId=__privateStripeController1081:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&title=Sign%20Up%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Flogin%3Fgoto%3D%252Flogin%253Fgoto%253D%25252F%252540DubaiCitybot%25252FMarketPro%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&title=Sign%20Up%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Flogin%3Fgoto%3D%252Flogin%253Fgoto%253D%25252F%252540DubaiCitybot%25252FMarketPro%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&title=Sign%20Up%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Flogin%3Fgoto%3D%252Flogin%253Fgoto%253D%25252F%252540DubaiCitybot%25252FMarketPro%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=NA&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-e542a96d4d09f86139d61711c52be2fd.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%228cb83ff4-0f67-4f3c-a46f-76f463bf63df%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=8cb83ff4-0f67-4f3c-a46f-76f463bf63df&stripeObjId=sobj-5428ba8f-c4c5-4c83-b257-3af06d0e3c51&firstStripeInstanceCreatedLatency=12&controllerCount=1&isCheckout=false&stripeJsLoadTime=1756228644989&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&controllerId=__privateStripeController2321:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-e542a96d4d09f86139d61711c52be2fd.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%228cb83ff4-0f67-4f3c-a46f-76f463bf63df%22%2C%22assignments%22%3A%7B%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=8cb83ff4-0f67-4f3c-a46f-76f463bf63df&stripeObjId=sobj-5428ba8f-c4c5-4c83-b257-3af06d0e3c51&firstStripeInstanceCreatedLatency=12&controllerCount=1&isCheckout=false&stripeJsLoadTime=1756228644989&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&controllerId=__privateStripeController2321:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&title=Replit%20-%20404%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&title=Replit%20-%20404%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&title=Replit%20-%20404%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+VM3572 MarketPro:4 Unchecked runtime.lastError: The message port closed before a response was received.
+_app-de4dfb98eda4677a.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+js.stripe.com/v3/controller-with-preconnect-e542a96d4d09f86139d61711c52be2fd.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22cda2a0e1-becf-413f-b0ee-42e1b3aa8827%22%2C%22assignments%22%3A%7B%22elements_phone_numbers_library%22%3A%22control%22%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=cda2a0e1-becf-413f-b0ee-42e1b3aa8827&stripeObjId=sobj-0ed79807-8560-43a4-88b7-6a66c46eec58&firstStripeInstanceCreatedLatency=9&controllerCount=1&isCheckout=false&stripeJsLoadTime=1756228656648&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&controllerId=__privateStripeController1221:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/controller-with-preconnect-e542a96d4d09f86139d61711c52be2fd.html#__shared_params__[version]=acacia&__shared_params__[light_experiment_assignments]=%7B%22token%22%3A%22cda2a0e1-becf-413f-b0ee-42e1b3aa8827%22%2C%22assignments%22%3A%7B%22elements_phone_numbers_library%22%3A%22control%22%7D%7D&apiKey=pk_live_515YpNsJAmnYVOvfnsBqRdATWS6SzbNAslOz1z2tujdKuvRMDAwWMeFXp6dJL1YKRrQjB0WAp0UDGwlFYL7hxw7Fc00QkfxBFsL&apiVersion=2025-01-27.acacia&stripeJsId=cda2a0e1-becf-413f-b0ee-42e1b3aa8827&stripeObjId=sobj-0ed79807-8560-43a4-88b7-6a66c46eec58&firstStripeInstanceCreatedLatency=9&controllerCount=1&isCheckout=false&stripeJsLoadTime=1756228656648&manualBrowserDeprecationRollout=false&mids[guid]=NA&mids[muid]=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&mids[sid]=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&referrer=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&controllerId=__privateStripeController1221:1 Unchecked runtime.lastError: The message port closed before a response was received.
+anchor?ar=1&k=6LdqhwwoAAAAAFPdw8jCuvY3PaHQItGj3RzOS4fW&co=aHR0cHM6Ly9yZXBsaXQuY29tOjQ0Mw..&hl=ru&v=…:1 Unchecked runtime.lastError: The message port closed before a response was received.
+anchor?ar=1&k=6LdqhwwoAAAAAFPdw8jCuvY3PaHQItGj3RzOS4fW&co=aHR0cHM6Ly9yZXBsaXQuY29tOjQ0Mw..&hl=ru&v=…:1 Unchecked runtime.lastError: The message port closed before a response was received.
+sw_iframe.html?origin=https%3A%2F%2Freplit.com:1 Unchecked runtime.lastError: The message port closed before a response was received.
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_CONNECTION_RESET
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&title=Replit%20-%20404%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&title=Replit%20-%20404%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+m.stripe.network/inner.html#url=https%3A%2F%2Freplit.com%2F%40DubaiCitybot%2FMarketPro&title=Replit%20-%20404%20-%20Replit&referrer=https%3A%2F%2Freplit.com%2Fsignup%3Fgoto%3D%252Flogin%253Fgoto%253D%25252Flogin%25253Fgoto%25253D%2525252F%25252540DubaiCitybot%2525252FMarketPro%252526error%25253Dunauthorized%2526error%253Dunauthorized%26error%3Dunauthorized&muid=755a9b6c-d65f-44e0-8f82-dcfde5193720b46884&sid=e5c922c4-3c27-462e-bbae-00cdf78e23ba9dbea9&version=6&preview=false&__shared_params__[version]=acacia:1 Unchecked runtime.lastError: The message port closed before a response was received.
+anchor?ar=1&k=6LdqhwwoAAAAAFPdw8jCuvY3PaHQItGj3RzOS4fW&co=aHR0cHM6Ly9yZXBsaXQuY29tOjQ0Mw..&hl=ru&v=…:180 Unchecked runtime.lastError: The message port closed before a response was received.
+anchor?ar=1&k=6LdqhwwoAAAAAFPdw8jCuvY3PaHQItGj3RzOS4fW&co=aHR0cHM6Ly9yZXBsaXQuY29tOjQ0Mw..&hl=ru&v=…:180 Unchecked runtime.lastError: The message port closed before a response was received.
+main-69b0eb2937c163a0.js:1 [Intervention] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://replit.com/public/fonts/ibm-plex-sans-v8-latin-600.woff2
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'battery'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1
+framework-9817d1ae1e9a0693.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-9817d1ae1e9a0693.js:1

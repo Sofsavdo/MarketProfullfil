@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: biznesyordam-backend
+    runtime: node
+    plan: starter # Bepul plan
+    branch: main
+    buildCommand: npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: DATABASE_URL
+        sync: false # Manual qo'shamiz
+    domains:
+      - biznesyordam.uz
+      - www.biznesyordam.uz

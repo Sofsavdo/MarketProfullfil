@@ -1,0 +1,53 @@
+import React from "react";
+import { Router, Route, Switch } from "wouter";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { Toaster } from "@/components/ui/toaster";
+import Landing from "@/pages/landing";
+import LoginPage from "@/pages/LoginPage";
+import AdminLogin from "@/pages/AdminLogin";
+import AdminPanel from "@/pages/admin-panel";
+import PartnerDashboard from "@/pages/partner-dashboard";
+import PartnerRegistration from "@/pages/partner-registration";
+import PartnerActivation from "@/pages/partner-activation";
+import ProductFulfillmentRequest from "@/pages/product-fulfillment-request";
+import AdminMarketplaceManagement from "@/pages/admin-marketplace-management";
+import AdminFulfillmentManagement from "@/pages/admin-fulfillment-management";
+import AdminActivationManagement from "@/pages/admin-activation-management";
+import NotFound from "@/pages/not-found";
+
+// API query client
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      staleTime: 1000 * 60 * 5, // 5 minutes
+      retry: 1,
+    },
+  },
+});
+
+function App() {
+  return (
+    <QueryClientProvider client={queryClient}>
+      <Router>
+        <Switch>
+          <Route path="/" component={Landing} />
+          <Route path="/login" component={LoginPage} />
+          <Route path="/admin-login" component={AdminLogin} />
+          <Route path="/admin" component={AdminPanel} />
+          <Route path="/admin-panel" component={AdminPanel} />
+          <Route path="/admin/marketplace/:partnerId" component={AdminMarketplaceManagement} />
+          <Route path="/admin/fulfillment" component={AdminFulfillmentManagement} />
+          <Route path="/admin/activations" component={AdminActivationManagement} />
+          <Route path="/partner-dashboard" component={PartnerDashboard} />
+          <Route path="/partner-registration" component={PartnerRegistration} />
+          <Route path="/partner-activation" component={PartnerActivation} />
+          <Route path="/fulfillment-request" component={ProductFulfillmentRequest} />
+          <Route component={NotFound} />
+        </Switch>
+      </Router>
+      <Toaster />
+    </QueryClientProvider>
+  );
+}
+
+export default App;

@@ -1,0 +1,41 @@
+Vazifa:
+Marketplace fulfilment platformasini to‘liq ishlaydigan, mukammal, xavfsiz va foydalanuvchilar uchun qulay qilish. Loyiha 3 asosiy qismdan iborat:
+
+Bosh sahifa (homepage) – tashrif buyuruvchilarni jalb qiluvchi, ishonch uyg‘otuvchi, kreativ dizaynga ega bo‘lishi kerak.
+
+Hamkor Dashboard – hamkor tadbirkorlar uchun marketplace savdolarini boshqarish, API orqali real ma’lumotlarni olish, daromad va statistika ko‘rsatkichlarini ko‘rsatish.
+
+Admin Panel – barcha hamkorlarni boshqarish, ularga tegishli ma’lumotlarni tekshirish, sozlash, tasdiqlash va marketplace API hujjatlari orqali real integratsiyalarni amalga oshirish.
+
+Tahlil va Tuzatish Talab Qilinadigan Jihatlar:
+
+Har bir qismni (homepage, dashboard, admin panel) eng kichik detallarigacha tahlil qiling va ishlamayotgan funksiyalarni aniqlang.
+
+Fake data emas, real API integratsiyalari ishlashi kerak. Har bir hamkor o‘z marketplace hisobidan ma’lumotlarni real vaqt rejimida ko‘ra olishi shart.
+
+Admin paneldan:
+
+Har bir hamkorni ro‘yxatdan o‘tkazish, tekshirish va tasdiqlash imkoniyati.
+
+Marketplace API hujjatlarini biriktirish orqali hamkor dashboardiga real ma’lumot uzatilishini ta’minlash.
+
+Tariflar, komissiyalar va tizim sozlamalarini to‘liq boshqarish.
+
+Bildirishnomalar faqat oddiy ogohlantirish emas, balki real jarayonlar bilan bog‘lanishi shart (masalan, API ulanishi muvaffaqiyatli bo‘lsa → dashboardda ma’lumotlar yangilanadi).
+
+Dizayn: Kreativ yondashuv, foydalanuvchilarda ishonch uyg‘otish, ranglar uyg‘unligi va zarur joylarda rasmlardan foydalanish orqali professional ko‘rinish berish.
+
+Natija:
+
+Har bir funksiya mukammal ishlashi.
+
+Sozlamalar to‘liq va xatosiz ishlashi.
+
+Dashboard va admin panel real-time data bilan ishlashi.
+
+UI/UX dizayn ishonchlilik va qiziqish uyg‘otishi.
+
+Tizimdagi barcha xatoliklar va kamchiliklar to‘liq bartaraf etilishi.
+
+Talab:
+Kod, tizim arxitekturasi va interfeysni to‘liq tahlil qiling, mavjud xatolarni ko‘rsating va to‘liq tuzatilgan variantini taqdim eting. Har bir modul real ishlash jarayoniga mos kelishi kerak.
